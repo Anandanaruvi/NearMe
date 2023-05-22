@@ -176,18 +176,20 @@ kundrathur.html
 
 ### OUTPUT
 
-C:\Users\SEC\Pictures\111111.png
+![123](https://github.com/Anandanaruvi/NearMe/assets/120443233/3a4dc2fa-8d94-4cd1-8e3e-0636a3797b13)
 
-C:\Users\SEC\Pictures\1234.png
+![1234](https://github.com/Anandanaruvi/NearMe/assets/120443233/2ef8e655-ea9e-4134-95e5-311af8e86e5a)
 
-C:\Users\SEC\Pictures\12345.png
+![12345](https://github.com/Anandanaruvi/NearMe/assets/120443233/7581e450-cc82-4adf-85a7-e1addf91db79)
 
-C:\Users\SEC\Pictures\123456.png
+![Screenshot (194)](https://github.com/Anandanaruvi/NearMe/assets/120443233/d90f7488-13d4-4243-8285-78b89c4d94ac)
 
+![123456](https://github.com/Anandanaruvi/NearMe/assets/120443233/51230d99-230f-4e6c-8c86-eeae1429357f)
 
 ### HTML VALIDATOR
 
-C:\Users\SEC\Pictures\Screenshot (195).png
+![Screenshot (195)](https://github.com/Anandanaruvi/NearMe/assets/120443233/3f2fb387-fb26-44fa-857b-d1a6e83235f1)
+
 
 ### RESULT
 
