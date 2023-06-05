@@ -176,17 +176,17 @@ kundrathur.html
 
 ### OUTPUT
 
-![my home near](https://github.com/Anandanaruvi/NearMe/assets/120443233/7542fe18-9b08-4938-b1e6-c1cb47619937)
+![image](https://github.com/Anandanaruvi/NearMe/assets/120443233/18000e6c-0bd7-4923-b03f-d5cef708503e)
 
-![123](https://github.com/Anandanaruvi/NearMe/assets/120443233/3a4dc2fa-8d94-4cd1-8e3e-0636a3797b13)
+![image](https://github.com/Anandanaruvi/NearMe/assets/120443233/96624d76-8db6-4109-b4d3-649bc8581445)
 
-![1234](https://github.com/Anandanaruvi/NearMe/assets/120443233/2ef8e655-ea9e-4134-95e5-311af8e86e5a)
+![image](https://github.com/Anandanaruvi/NearMe/assets/120443233/31bb166c-77b2-4c88-a35e-9e2c5e4e39af)
 
-![12345](https://github.com/Anandanaruvi/NearMe/assets/120443233/7581e450-cc82-4adf-85a7-e1addf91db79)
+![image](https://github.com/Anandanaruvi/NearMe/assets/120443233/9d97342c-1732-4c31-a5fe-b96024a3cf9c)
 
-![Screenshot (194)](https://github.com/Anandanaruvi/NearMe/assets/120443233/d90f7488-13d4-4243-8285-78b89c4d94ac)
+![image](https://github.com/Anandanaruvi/NearMe/assets/120443233/83742011-9c98-466c-ab69-8a1eb39c9f05)
 
-![123456](https://github.com/Anandanaruvi/NearMe/assets/120443233/51230d99-230f-4e6c-8c86-eeae1429357f)
+![image](https://github.com/Anandanaruvi/NearMe/assets/120443233/f22989a8-ac4e-4afa-9770-28cbb9dd71f9)
 
 ### HTML VALIDATOR
 
